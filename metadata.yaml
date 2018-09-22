@@ -1,5 +1,8 @@
 _repo: The-Story-of-Lutheran-Missions_55819
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55819-h/images/cover.jpg
 creator:
   author:
     agent_name: Singmaster, Elsie
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '40794'
     url: http://www.gutenberg.org/2009/agents/40794
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55819#The-Story-of-Lutheran-Missions
 gutenberg_issued: '2017-10-26'
 gutenberg_type: Text
 identifiers:
